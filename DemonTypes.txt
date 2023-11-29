@@ -1,0 +1,62 @@
+Beelzebub (Gluttony)
+HP: High
+Speed: Above average
+Range: Very short when enraged
+Defense: Average
+Power: Average
+Dodging Ability: Above average
+Special Traits: A tanky enemy with above-average speed, making him hard to pin down.
+
+Lucifer (Pride)
+HP: Above average
+Speed: Average
+Range: Varies between long and extremely long when enraged
+Defense: Average
+Power: Average
+Dodging Ability: Above average
+Special Traits: A master of range, especially when enraged, making him a threat from afar.
+
+Satan (Wrath)
+HP: Average
+Speed: Above average
+Range: Very short when enraged
+Defense: Average
+Power: Extremely high
+Dodging Ability: Average
+Special Traits: Focused on offense. His high power makes him extremely dangerous in close combat.
+
+Leviathan (Envy)
+HP: Below average
+Speed: High
+Range: Very short when enraged
+Defense: Above average
+Power: Above average
+Dodging Ability: Very high
+Special Traits: A balanced enemy with high dodging ability, making him a slippery foe.
+
+Asmodeus (Lust)
+HP: Low
+Speed: Very low
+Range: Medium
+Defense: None
+Power: Below average
+Dodging Ability: Very low
+Special Traits: Fragile but possesses seductive abilities to manipulate and control opponents.
+
+Mammon (Greed)
+HP: Average
+Speed: None (Immobile)
+Range: Extremely long
+Defense: Average
+Power: Extremely high
+Dodging Ability: None
+Special Traits: A stationary turret. While he can't move or dodge, his extreme range and power make him a formidable enemy from a distance.
+
+Blephegor (Sloth)
+HP: High
+Speed: None (Immobile)
+Range: Above average
+Defense: Below average
+Power: Below average
+Dodging Ability: Very low
+Special Traits: While sluggish and lacking in active aggression, his high HP makes him a challenge to take down.
